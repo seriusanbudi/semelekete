@@ -1,0 +1,47 @@
+{
+  "name": "nextproject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.5.1",
+    "@szhsin/react-menu": "^3.0.1",
+    "axios": "^0.21.1",
+    "copy-to-clipboard": "^3.3.1",
+    "date-fns": "^2.21.3",
+    "framer-motion": "^4.1.17",
+    "lodash": "^4.17.21",
+    "magic-sdk": "^8.1.1",
+    "moralis": "^1.6.0",
+    "next": "10.2.2",
+    "numeral": "^2.0.6",
+    "polished": "^4.1.2",
+    "qrcode.react": "^3.0.1",
+    "react": "17.0.2",
+    "react-avatar": "^4.0.0",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.6.4",
+    "react-icons": "^4.2.0",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.15.1",
+    "react-moralis": "^1.3.5",
+    "react-redux": "^7.2.4",
+    "react-select": "^4.3.1",
+    "react-table": "^7.7.0",
+    "react-tippy": "^1.4.0",
+    "redux": "^4.1.0",
+    "styled-components": "^5.3.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "babel-plugin-styled-components": "latest",
+    "postcss": "^8.3.0",
+    "redux-devtools-extension": "^2.13.9",
+    "tailwindcss": "^3.0.2"
+  }
+}
